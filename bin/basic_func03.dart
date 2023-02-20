@@ -2,10 +2,9 @@
 
 // Return the value "codeschooluz"
 String func() {
-  return "codeschooluz";
+  return "  codeschooluz";
 }
 
 void main() {
-
   print(func());
 }
